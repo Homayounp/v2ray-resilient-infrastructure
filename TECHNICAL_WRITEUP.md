@@ -9,6 +9,7 @@ IP lifecycle management under traffic analysis
 Protocol resilience during censorship escalation waves
 1. Technical Architecture
 1.1 Core Infrastructure Stack
+   
 ┌─────────────────────────────────────────┐
 
 │ CloudFlare DNS Layer │
